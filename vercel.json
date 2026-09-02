@@ -1,5 +1,6 @@
 {
   "outputDirectory": "dist",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "buildCommand": "echo 'Using prebuilt static site'"
 }
